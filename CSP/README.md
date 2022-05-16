@@ -3,7 +3,8 @@
 ## Constraint satisfaction problem Modeling in Z3.
 
 <img
-     src="https://github.com/manuelaceron/Artificial-Intelligence/tree/main/CSP/sudoku.PNG">
+     src="https://github.com/manuelaceron/Artificial-Intelligence/tree/main/CSP/sudoku.PNG"
+     style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 1. Typical Sudoku constraints:
 (a) Numbers cannot be repeated in any row, column, or 3x3 square.
