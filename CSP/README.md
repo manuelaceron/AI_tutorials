@@ -4,6 +4,8 @@
 
 ![My Image](sudoku.PNG)
 
+# Constraints:
+
 1. Typical Sudoku constraints:
 (a) Numbers cannot be repeated in any row, column, or 3x3 square.
 (b) Cells whose values are already specified must be assigned to the respective values.
